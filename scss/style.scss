@@ -195,8 +195,9 @@ layout
   justify-content: space-between;
   margin: 0 auto;
   grid-template-rows: 150px 150px;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 40% 40%;
   row-gap: 20px;
+  justify-content: space-around;
   &__item {
     text-align: center;
     margin: 0 auto;
